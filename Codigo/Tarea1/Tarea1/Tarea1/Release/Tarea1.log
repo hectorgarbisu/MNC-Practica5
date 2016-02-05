@@ -1,0 +1,16 @@
+﻿Compilación iniciada a las 13/10/2015 12:11:17.
+     1>Proyecto "C:\Users\usuario\Desktop\MNC\Practica5\Codigo\Tarea1\Tarea1\Tarea1\Tarea1.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /Gy /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt HolaMatlab.cpp
+         HolaMatlab.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\usuario\Desktop\MNC\Practica5\Codigo\Tarea1\Tarea1\Release\Tarea1.mexw32" /NOLOGO /LIBPATH:"C:\Program Files (x86)\Intel\Composer XE 2015\mkl\lib\ia32" /LIBPATH:"C:\Program Files (x86)\MATLAB\R2007a\extern\lib\win32\microsoft" libmx.lib libmex.lib libmat.lib mkl_core.lib mkl_intel_c.lib mkl_sequential.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\usuario\Desktop\MNC\Practica5\Codigo\Tarea1\Tarea1\Release\Tarea1.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\usuario\Desktop\MNC\Practica5\Codigo\Tarea1\Tarea1\Release\Tarea1.lib" /MACHINE:X86 /SAFESEH /export:mexFunction /DLL Release\HolaMatlab.obj
+            Creando biblioteca C:\Users\usuario\Desktop\MNC\Practica5\Codigo\Tarea1\Tarea1\Release\Tarea1.lib y objeto C:\Users\usuario\Desktop\MNC\Practica5\Codigo\Tarea1\Tarea1\Release\Tarea1.exp
+         Generando código
+         Generación de código finalizada
+         Tarea1.vcxproj -> C:\Users\usuario\Desktop\MNC\Practica5\Codigo\Tarea1\Tarea1\Release\Tarea1.mexw32
+     1>Compilación del proyecto terminada "C:\Users\usuario\Desktop\MNC\Practica5\Codigo\Tarea1\Tarea1\Tarea1\Tarea1.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.62

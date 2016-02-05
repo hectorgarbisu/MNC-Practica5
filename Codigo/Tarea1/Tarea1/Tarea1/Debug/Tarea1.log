@@ -1,0 +1,14 @@
+﻿Compilación iniciada a las 13/10/2015 12:00:08.
+     1>Proyecto "C:\Users\usuario\Desktop\MNC\Practica5\Codigo\Tarea1\Tarea1\Tarea1\Tarea1.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt HolaMatlab.cpp
+         HolaMatlab.cpp
+     1>c:\program files (x86)\matlab\r2007a\extern\include\matrix.h(336): error C2371: 'char16_t' : nueva definición; tipos básicos distintos
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\yvals.h(605) : vea la declaración de 'char16_t'
+     1>c:\users\usuario\desktop\mnc\practica5\codigo\tarea1\tarea1\tarea1\holamatlab.cpp(13): warning C4005: 'CHAR16_T' : redefinición de macro
+                 c:\program files (x86)\matlab\r2007a\extern\include\matrix.h(332) : vea la definición anterior de 'CHAR16_T'
+     1>Compilación del proyecto terminada "C:\Users\usuario\Desktop\MNC\Practica5\Codigo\Tarea1\Tarea1\Tarea1\Tarea1.vcxproj" (Build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:00.31
